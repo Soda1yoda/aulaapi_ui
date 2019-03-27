@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+body{ 
+    margin:0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(82, 179, 58);
+
+}
+
+label {
+    font-weight:bold;
+
+
+}
+
+@media (min-width:1200px){
+    .container { 
+width: 1170px;
+margin: 0 auto;
+
+    }
+
+}
